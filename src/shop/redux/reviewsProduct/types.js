@@ -1,0 +1,52 @@
+import { createActionType } from '../../utils/reduxHelper';
+
+export const CONTEXT = 'shop/REVIEW';
+
+export const GET_REVIEW_LIST = `${CONTEXT}/GET_REVIEW_LIST`;
+export const ADD_REVIEW = `${CONTEXT}/ADD_REVIEW`;
+export const LIKE_REVIEW = `${CONTEXT}/LIKE_REVIEW`;
+export const UNLIKE_REVIEW = `${CONTEXT}/UNLIKE_REVIEW`;
+export const LIKE_REPLY = `${CONTEXT}/LIKE_REPLY`;
+export const UNLIKE_REPLY = `${CONTEXT}/UNLIKE_REPLY`;
+
+export const [
+  GET_REVIEW_LIST_BEGIN,
+  GET_REVIEW_LIST_SUCCESS,
+  GET_REVIEW_LIST_FAIL,
+  GET_REVIEW_LIST_END
+] = createActionType(GET_REVIEW_LIST);
+
+export const [
+  ADD_REVIEW_BEGIN,
+  ADD_REVIEW_SUCCESS,
+  ADD_REVIEW_FAIL,
+  ADD_REVIEW_END
+] = createActionType(ADD_REVIEW);
+
+export const [
+  LIKE_REVIEW_BEGIN,
+  LIKE_REVIEW_SUCCESS,
+  LIKE_REVIEW_FAIL,
+  LIKE_REVIEW_END
+] = createActionType(LIKE_REVIEW);
+
+export const [
+  UNLIKE_REVIEW_BEGIN,
+  UNLIKE_REVIEW_SUCCESS,
+  UNLIKE_REVIEW_FAIL,
+  UNLIKE_REVIEW_END
+] = createActionType(UNLIKE_REVIEW);
+
+export const [
+  LIKE_REPLY_BEGIN,
+  LIKE_REPLY_SUCCESS,
+  LIKE_REPLY_FAIL,
+  LIKE_REPLY_END
+] = createActionType(LIKE_REPLY);
+
+export const [
+  UNLIKE_REPLY_BEGIN,
+  UNLIKE_REPLY_SUCCESS,
+  UNLIKE_REPLY_FAIL,
+  UNLIKE_REPLY_END
+] = createActionType(UNLIKE_REPLY);

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "222575187275",
+    "firebase_url": "https://isalon-booking.firebaseio.com",
+    "project_id": "isalon-booking",
+    "storage_bucket": "isalon-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222575187275:android:7cdf28e820db8107",
+        "android_client_info": {
+          "package_name": "com.isalonbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222575187275-qn0pjqptt8npje0ho7jbla36kj9jtpig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isalonbooking",
+            "certificate_hash": "f0f42c2794193a318fcae5c82cc0c82d556df9b0"
+          }
+        },
+        {
+          "client_id": "222575187275-9esq8m9psvk6ic72fsb2b7g9mslk09fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8D71WlOp9RJ8PVqxoNVz_HcIP463-zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222575187275-9esq8m9psvk6ic72fsb2b7g9mslk09fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222575187275-lnnj3p78f3hphlanads0ni3fvo40oe4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.isalon.booking",
+                "app_store_id": "1439284821"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

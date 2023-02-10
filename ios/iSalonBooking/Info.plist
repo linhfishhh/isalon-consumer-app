@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>vi</string>
+	<key>CFBundleDisplayName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1017282308444421</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>vn.isalon.booking</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>vn.isalon.booking</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.googleusercontent.apps.222575187275-lnnj3p78f3hphlanads0ni3fvo40oe4o</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.222575187275-lnnj3p78f3hphlanads0ni3fvo40oe4o</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>CodePushDeploymentKey</key>
+	<string>$(CODE_PUSH_DEPLOYMENT_KEY)</string>
+	<key>FacebookAppID</key>
+	<string>1017282308444421</string>
+	<key>FacebookDisplayName</key>
+	<string>iSalon Booking</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>itms-apps</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Chúng tôi cần sử dụng AppleMusic của bạn</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Chúng tôi cần sử dụng bluetooth của bạn.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Chúng tôi cần sử dụng bluetooth của bạn</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Chúng tôi cần truy xuất lịch của bạn để đồng bộ nhắc lịch làm đẹp</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Chúng tôi cần sử dụng danh bạ của bạn để mời bạn bè tải ứng dụng</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Chúng tôi cần biết vị trí của bạn để gợi ý những salon gần nhất cũng như tính toán khoảng cách từ vị trí của bạn đến những salon đang tìm kiếm</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Chúng tôi cần biết vị trí của bạn để gợi ý những salon gần nhất cũng như tính toán khoảng cách từ vị trí của bạn đến những salon đang tìm kiếm</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Chúng tôi cần biết vị trí của bạn để gợi ý những salon gần nhất cũng như tính toán khoảng cách từ vị trí của bạn đến những salon đang tìm kiếm</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Chúng tôi cần truy xuất chuyển động của bạn</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Chúng tôi cần truy xuất thư viện ảnh của bạn để cập nhật ảnh đại diện và bộ sưu tập.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Chúng tôi cần truy xuất giọng nói của bạn</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>SVN-Product Sans Bold Italic.ttf</string>
+		<string>SVN-Product Sans Bold.ttf</string>
+		<string>SVN-Product Sans Italic.ttf</string>
+		<string>SVN-Product Sans.ttf</string>
+		<string>SVN-Circular Black Italic.ttf</string>
+		<string>SVN-Circular Black.ttf</string>
+		<string>SVN-Circular Bold Italic.ttf</string>
+		<string>SVN-Circular Bold.ttf</string>
+		<string>SVN-Circular Book Italic.ttf</string>
+		<string>SVN-Circular Book.ttf</string>
+		<string>SVN-Circular Medium Italic.ttf</string>
+		<string>SVN-Circular Medium.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

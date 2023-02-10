@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iSalon Booking</string>
+    <string name="facebook_app_id">1017282308444421</string>
+    <string name="ak_client_token">a258d53fde5a7f16138ba353d45daeff</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>

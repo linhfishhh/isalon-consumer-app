@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>222575187275-lnnj3p78f3hphlanads0ni3fvo40oe4o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.222575187275-lnnj3p78f3hphlanads0ni3fvo40oe4o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>222575187275-9ccr7p6jvptd21im8mkktgnkvpeugri6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_H-yuzo7yRJmJ8en2uE1GEDmbErRWipg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>222575187275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.isalon.booking</string>
+	<key>PROJECT_ID</key>
+	<string>isalon-booking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>isalon-booking.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:222575187275:ios:bb68a60793d6836f</string>
+	<key>DATABASE_URL</key>
+	<string>https://isalon-booking.firebaseio.com</string>
+</dict>
+</plist>

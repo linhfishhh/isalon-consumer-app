@@ -1,0 +1,6 @@
+node_modules/**
+src/components
+src/redux
+src/screens
+src/styles
+src/*.js

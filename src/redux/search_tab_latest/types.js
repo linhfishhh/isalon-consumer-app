@@ -1,0 +1,1 @@
+export const aupdateInfo = 'A_SEARCH_TAB_LATEST_UPDATE_INFO';

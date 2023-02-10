@@ -1,0 +1,1 @@
+export const aupdateInfo = 'A_SEARCH_CUSTOM_SALON';

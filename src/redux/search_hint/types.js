@@ -1,0 +1,1 @@
+export const aupdateInfo = 'A_SEARCH_HINT_UPDATE_INFO';

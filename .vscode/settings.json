@@ -1,0 +1,8 @@
+{
+  "react-native": {
+    "packager": {
+      "port": 8081
+    }
+  },
+  "prettier.singleQuote": true
+}

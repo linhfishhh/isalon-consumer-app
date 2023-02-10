@@ -1,0 +1,1 @@
+export const aupdateInfo = 'A_NEW_SEARCH_CACHE_UDATE_INFO';

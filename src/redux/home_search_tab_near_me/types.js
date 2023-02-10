@@ -1,0 +1,1 @@
+export const aupdateInfo = 'A_HOME_SEARCH_TAB_NEAR_ME_UPDATE_INFO';
